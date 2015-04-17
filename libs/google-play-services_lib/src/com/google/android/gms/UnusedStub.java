@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package android;
+package com.google.android.gms;
 
 // Stub java file to make inclusion into some IDE's work.
 public final class UnusedStub {
